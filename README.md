@@ -3,7 +3,7 @@
 This project demonstrates an end-to-end data analysis pipeline focused on identifying sales trends, regional performance disparities, and customer value for an e-commerce business. This analysis utilizes a multi-tool stack, highlighting proficiency in data transformation, advanced SQL querying, and professional visualization.
 
  
- ## Technology Stack
+ ## 🛠️ Technology Stack 
 
 | Component | Tool Used | Purpose in Project |
 | :--- | :--- | :--- |
@@ -14,7 +14,7 @@ This project demonstrates an end-to-end data analysis pipeline focused on identi
 
 
 
-## Project Files
+## 📂  Project Files  
 
 | File Name | Description |
 | :--- | :--- |
