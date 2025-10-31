@@ -40,3 +40,9 @@ The final report provides concrete recommendations derived from the data:
 * **Targeted Retention:** Focus resources on retaining high-value customers identified in the SQL analysis.
 * **Stabilize Trends:** Investigate the cause of the sharp revenue drop in February to prevent recurrence and ensure more consistent monthly growth.
 
+## 👁️ Final Visualization Dashboard
+
+Below is a snapshot of the primary dashboard, summarizing Regional Sales and Monthly Revenue Trends, which were generated after cleaning the data in Python and executing queries in MySQL.
+
+![E-Commerce Dashboard Summary]([YOUR_IMAGE_LINK_HERE](https://github.com/SamyaDutta2026/ECommerce_Data_Analysis/blob/main/Sales%20analysis.png))
+
